@@ -1,0 +1,7 @@
+t1.txt wc: 6
+t2.txt wc: 12
+t3.txt wc: 3
+t4.txt wc: 7
+Total # words: 28
+Max WC File: t2.txt
+My Name: Kyle O'Connor
